@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(248, 247, 247);
+}
+table{ width: 95%;
+    height: 700px;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 20px;
+
+    align-items: center;
+    background-color: white;
+    text-align: center;
+    padding: 12px;
+    justify-content: center;
+    border-collapse: collapse;
+    border:8px solid white;
+    table-layout: fixed;
+   
+}
+table,td{
+    height: 60px;
+}
+table,th{ 
+    height: 60px;
+}
+
+.sas {
+    background-color: rgb(223, 222, 222);
+    }
+
+.test
+{word-wrap: normal;
+    border: 1px solid green;
+    background-color: green;
+    border-radius: 2px;
+    border: none;
+    height: 29px;
+    width: 80px;
+    color: white;
+
+}
+#yesil{
+display: flex;
+justify-content: center;
+    
+}
+#sari
+{display: flex;
+justify-content: center;}
+
+.test1{
+    word-wrap: normal;
+    border: 1px solid yellow;
+    background-color: yellow;
+    border-radius: 2px;
+    border: none;
+    height: 29px;
+    width: 60px;
+    color: black; 
+}
+
+
+#kirmizi{
+display: flex;
+justify-content: center;
+}
+
+.test2
+{  word-wrap: normal;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 2px;
+    border: none;
+    height: 28px;
+    width: 68px;
+    color: white; 
+
+    
+}
+
+tr th{
+    font-weight: lighter;}
+
+.bold{
+    font-weight: bold;}
+
+
+h1{ font-family:sans-serif; 
+    font-weight: 400;
+    text-align: center;
+margin-top: 70px;}
